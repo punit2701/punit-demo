@@ -1,2 +1,3 @@
 # punit-demo
-this is my first git repository
+This Is My First Git Repository.
+Author- Punit Biradar
